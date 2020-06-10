@@ -18,6 +18,8 @@ NTP client implementation for TCP supporting devices (i. e. [Argon](https://stor
 
 The library comes with some example sketches. See File > Examples for all examples.
 
+![Example](docs/img/Example.png)
+
 ## History
 
 | **Version**  | **Description**                            | **Date**    |
